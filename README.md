@@ -59,4 +59,6 @@ The goal of this project is to implement a "file checking" logic, while also add
 
 ## Authors
 
-Michal Young, Ram Durairajan. Updated by Ali Hassani.
+Carsten Konyn
+
+Ports already being in use was annoying, used docker desktop. I wasn't able to get docker to work on my end, but flask worked just fine.
